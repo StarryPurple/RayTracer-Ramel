@@ -1,0 +1,13 @@
+[package]
+name = "raytracer-ramel"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+image = "0.25.6"
+console = "0.15.11"
+indicatif = "0.17.11"
+rand = "0.9.1"
+# derive_more = { version = "2.1.1", features = ["add", "add_assign", "mul", "mul_assign"]}
+rayon = "1.11.0"
+tobj = "4.0.3"
